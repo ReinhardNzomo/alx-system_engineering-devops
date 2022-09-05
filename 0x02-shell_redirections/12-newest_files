@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tal | head -n 11
+find . -type f | head -n 11
